@@ -1,21 +1,21 @@
 # Individual-Assignment-4
 
-# Lecture 04 Individual Assignment
-## DNSC 6330: Responsible Machine Learning
+ Lecture 04 Individual Assignment
+ DNSC 6330: Responsible Machine Learning
 
 
-## Assignment 
-**From Accuracy to Accountability: Stress Testing a Predictive Model**
+# Assignment 
+*From Accuracy to Accountability: Stress Testing a Predictive Model**
 
 ---
 
-## Overview
+# Overview
 This notebook extends the COMPAS recidivism risk scoring pipeline built across Lectures 01–03 to evaluate whether the models remain reliable, fair, and generalizable beyond the training setting. The analysis covers distribution drift, generalization, spurious correlations, robustness under stress, and slice-based fairness evaluation.
 
 
 
 
-## Parts Completed
+#Parts Completed
 
 | Part | Topic | Methods Used |
 |------|-------|-------------|
